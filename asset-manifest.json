@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/massagechairmap/static/css/main.67921584.chunk.css",
-    "main.js": "/massagechairmap/static/js/main.3120b78e.chunk.js",
-    "main.js.map": "/massagechairmap/static/js/main.3120b78e.chunk.js.map",
+    "main.js": "/massagechairmap/static/js/main.ed87f519.chunk.js",
+    "main.js.map": "/massagechairmap/static/js/main.ed87f519.chunk.js.map",
     "runtime-main.js": "/massagechairmap/static/js/runtime-main.ec083d7b.js",
     "runtime-main.js.map": "/massagechairmap/static/js/runtime-main.ec083d7b.js.map",
     "static/js/2.487ee5d7.chunk.js": "/massagechairmap/static/js/2.487ee5d7.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ec083d7b.js",
     "static/js/2.487ee5d7.chunk.js",
     "static/css/main.67921584.chunk.css",
-    "static/js/main.3120b78e.chunk.js"
+    "static/js/main.ed87f519.chunk.js"
   ]
 }
