@@ -2,7 +2,7 @@
   "title": "マッサージチェアmap",
   "description": "マッサージチェアがある場所を探せるマップです。\n数百円で夢見心地を味わいましょう。",
   "form_url": "",
-  "logo_image_url": "https://moriudon.github.io/massagechairmap/mcm-logo.svg\r\n\r\n",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
-  "primary_color": "#d2691e"
+  "logo_image_url": "https://moriudon.github.io/massagechairmap/mcm-logo.svg",
+  "background_image_url": "https://moriudon.github.io/massagechairmap/23980111_m.jpg",
+  "primary_color": "81CDB2"
 }
